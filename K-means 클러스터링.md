@@ -1,6 +1,6 @@
 # 비지도학습 개론(Introduction to Unsupervised Learning)
 
-> Machine Learning - 비지도학습 - 차원축소, 클러스터링
+> 분류 : Machine Learning - 비지도학습 - 차원축소, 클러스터링
 
 - 지도학슫
     - 회귀분석(Regression) : 스칼라 값을 예측
